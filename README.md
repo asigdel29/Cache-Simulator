@@ -1,5 +1,5 @@
 # Cache-Simulator
-implemented a cache simulator given various parameters, and then watching it perform under different circumstances. 
+Implemented a cache simulator given various parameters, and then watching it perform under different circumstances. 
 
 When simulator starts, it takes from stdin (so no files are opened/closed/used in the project code) input in the following format:
 
